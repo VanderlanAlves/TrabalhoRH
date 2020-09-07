@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-  Embraer - Processo Seletivo
+  Embraer | Processo Seletivo
 </h2>
 
 
