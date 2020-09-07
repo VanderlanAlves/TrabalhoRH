@@ -1,0 +1,203 @@
+%% Adaptado a partir de :
+%%    abtex2-modelo-trabalho-academico.tex, v-1.9.2 laurocesar
+%% para ser um modelo para os trabalhos no IFSP-SPO
+
+\documentclass[
+    % -- opções da classe memoir --
+    12pt,               % tamanho da fonte
+    openright,          % capítulos começam em pág ímpar (insere página vazia caso preciso)
+    %twoside,            % para impressão em verso e anverso. Oposto a oneside
+    oneside,
+    a4paper,            % tamanho do papel. 
+    % -- opções da classe abntex2 --
+    %chapter=TITLE,     % títulos de capítulos convertidos em letras maiúsculas
+    %section=TITLE,     % títulos de seções convertidos em letras maiúsculas
+    %subsection=TITLE,  % títulos de subseções convertidos em letras maiúsculas
+    %subsubsection=TITLE,% títulos de subsubseções convertidos em letras maiúsculas
+    % Opções que não devem ser utilizadas na versão final do documento
+    draft,              % para compilar mais rápido, remover na versão final
+    MODELO,             % indica que é um documento modelo então precisa dos geradores de texto
+    TODO,               % indica que deve apresentar lista de pendencias 
+    % -- opções do pacote babel --
+    english,            % idioma adicional para hifenização
+    brazil              % o último idioma é o principal do documento
+    ]{ifsp-spo-inf-ctds}
+
+        
+% ---
+
+% --- 
+% CONFIGURAÇÕES DE PACOTES
+% --- 
+%\usepackage{etoolbox}
+%\patchcmd{\thebibliography}{\chapter*}{\section*}{}{}
+
+
+% ---
+% Informações de dados para CAPA e FOLHA DE ROSTO
+% ---
+\titulo{Primeiro Trabalho - Mecanismos de Contratação}
+
+% Trabalho individual
+%\autor{AUTOR DO TRABALHO}
+
+% Trabalho em Equipe
+% ver também https://github.com/abntex/abntex2/wiki/FAQ#como-adicionar-mais-de-um-autor-ao-meu-projeto
+\renewcommand{\imprimirautor}{
+\begin{tabular}{lr}
+Ana Clara da Cruz Coelho & SP305277X \\
+Deivid Aleixo de Almeida & SP305313X \\
+Marcos Vinicius De Oliveira Souza & SP3054161 \\
+Vanderlan Almeida Alves & SP3047016 \\
+\end{tabular}
+}
+
+
+\tipotrabalho{Projeto da Disciplina RHUA1}
+
+\disciplina{RHUA1 - Recursos Humanos em Tecnologia da Informação}
+
+\preambulo{Proposta de projeto para disciplina RHUA1}
+
+\data{06 de setembro de 2020}
+
+% Definir o que for necessário e comentar o que não for necessário
+% Utilizar o Nome Completo, abntex tem orientador e coorientador
+% então vão ser utilizados na definição de professor
+\renewcommand{\orientadorname}{Professor:}
+\orientador{Fernando Aires}
+
+
+
+
+
+% ---
+
+
+% ---
+% Configurações de aparência do PDF final
+
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+        %pagebackref=true,
+        pdftitle={\@title}, 
+        pdfauthor={\@author},
+        pdfsubject={\imprimirpreambulo},
+        pdfcreator={LaTeX with abnTeX2},
+        pdfkeywords={abnt}{latex}{abntex}{abntex2}{trabalho acadêmico}, 
+        colorlinks=true,            % false: boxed links; true: colored links
+        linkcolor=blue,             % color of internal links
+        citecolor=blue,             % color of links to bibliography
+        filecolor=magenta,              % color of file links
+        urlcolor=blue,
+        bookmarksdepth=4
+}
+\makeatother
+% --- 
+
+% ---
+
+% ----
+% Início do documento
+% ----
+\begin{document}
+
+
+% Retira espaço extra obsoleto entre as frases.
+\frenchspacing 
+
+\pretextual
+
+% ---
+% Capa - Para proposta a folha de rosto é suficiente pois é mais completa.
+% ---
+\imprimirfolhaderosto
+% ---
+
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+\textual
+\section{Sobre a Empresa}
+A Embraer, cadastrada atualmente no CNPJ 07.689.002/0001-89, tem nome empresarial Embraer S.A. e está no setor aeroespacial desde agosto de 1969. Desde o seu surgimento, a empresa já produziu mais de 8 mil aeronaves e conquistou seu espaço em diversos lugares do mundo, tornando-se, assim, a quinta maior fabricante de jatos particulares, a terceira melhor produtora de jatos comerciais e a líder entre as empresas na produção de aviões comerciais que suportam possuem até 130 poltronas. Seu sucesso é tanto, que transporta mais de 140 milhões de passageiros todo ano, sendo que a cada 10 segundos uma aeronave Embraer inicia voo. A companhia também viu necessidade de criação de indústrias, escritórios e centro de distribuição que disponibilizassem peças em quase todos os continentes.
+
+\section{História}
+Em 1950, a partir do suporte à aviação do governo de Getúlio Vargas, o ITA - Instituto Tecnológico de Aeronáutica, foi criado. Naquela época, o instituto tinha como objetivo a criação de um avião turbo propulsor para uso civil e militar. Assim, estruturou-se o projeto de criação do protótipo, que foi coordenado pelo engenheiro aeronáutico Ozires Silva. Depois que o avião concluiu com sucesso seus testes de voo, fez-se necessário criar uma fábrica que tornasse possível sua produção em larga escala. 
+	Com esse objetivo, Ozires e sua equipe tentaram articular a criação da companhia com o  setor privado. Entretanto, o início da empresa se deu com capital misto, a partir da capitalização inicial do Estado. No dia 19 de Agosto de 1969, a Embraer (Empresa Brasileira de Aeronáutica S.A.) foi sancionada via Decreto de Lei. Já década de 70, a empresa ganhou proporções gigantes, dominando os céus dos quatro cantos do planeta e apresentando soluções para o segmento agrícola, comercial e executivo.
+	Em 1994, após passar por dificuldades financeiras, a empresa foi totalmente privatizada e passou por uma grande reformulação, coordenada novamente por Ozires Silva. Em 2002, como forma de agradecimento à educação, criou o Colégio Engenheiro Juarez Wanderley, com o objetivo de dar oportunidade aos alunos em vulnerabilidade social da rede pública de ensino, oferecendo uma educação de ponta aos discentes. Desde então, a empresa continuou a produzir aeronaves de sucesso e segue até hoje riscando os céus do globo, se tornando uma das maiores empresas aeroespaciais do mundo.
+	
+    \textbf{Ramo de Atuação: Aeroespacial}	
+    
+    
+	\section{\textbf{Visão:}}
+	A Embraer foca em manter sua excelência e estabelecer-se no setor de aviação, sendo não somente um dos maiores destaques no seu ramo mercadológico, mas também liderando e sendo condecorada pela sua atuação empresarial na sociedade.
+	
+	\section{\textbf{Missão:}}
+	É extremamente importante para esta organização manter o nível de qualidade tecnológica de seus produtos de forma mais elevada possível, além de colocar um preço que seja ajustado de acordo com a concorrência do mercado.
+Ademais, o padrão deve ser alto não somente para o produto, como também deve atender dentro do prazo e rapidamente às demandas dos clientes; sempre de modo confiável, criativo, eficiente, profissional e qualificado.
+
+	
+	\section{\textbf{Valores:}}
+	    \begin{description}
+	    \item “1- ÉTICA E INTEGRIDADE ESTÃO EM TUDO QUE FAZEMOS”:
+        Estamos sempre buscando o melhor para nossos almejados clientes e colaboradores do time. Das atividades mais simples, as mais promissoras, o certo e a ética sempre andam na frente de tudo.
+        
+        \item “2- “NOSSA GENTE É O QUE NOS FAZ VOAR””:
+        Nossa missão é levar toda a equipe de colaboradores para o próximo nível. Competentes, valorizados, realizados e comprometidos com a companhia em entregar o melhor para nossos clientes. Confiança é muito importante para manter todos alinhados com os valores adequados.     
+        
+        \item “3- “EXISTIMOS PARA SERVIR NOSSOS CLIENTES”:
+        Sempre buscando a lealdade de nossos clientes com sua satisfação em nossos produtos e assim criando relações fortes e duradouras.
+        
+        \item “4- "BUSCAMOS A EXCELÊNCIA EMPRESARIAL":
+        Orientados pela simplicidade das coisas, agilidade, flexibilidade e segurança para agregar o melhor para o cliente final. Ação empreendedora, voltado para o planejamento responsável e disciplinados para a execução de tarefas no melhor prazo possível.
+        
+        \item “5- "OUSADIA E INOVAÇÃO SÃO A NOSSA MARCA”:
+        Capacidade de inovação e aprendizado constante. Somos ousados e fascinados em mudar a realidade interna e influenciar o nosso mercado. Coragem, Criatividade para superar os obstáculos diários.
+        
+        \item “6- "ATUAÇÃO GLOBAL É A NOSSA FRONTEIRA":
+        Pensamos além das barreiras impostas pela sociedade. A presença da nossa marca no quesito global, é de suma importância para consolidação no nosso mercado e capacidade de abrangência sem limites.        
+	    \end{description}
+        
+
+
+	\section{Responsabilidade Ambiental}
+	A Embraer traz para si a responsabilidade socioambiental, priorizando alguns ideais, como um gerenciamento ecológico, o respeito ao meio ambiente, a atenção ao ciclo de vida do produto etc. Desta forma, foi a primeira empresa de aviação no mundo a conseguir a norma ISO 14001 - que diz respeito ao Sistema de Gestão Ambiental. Nesta norma, são levados em conta tanto as questões ambientais influenciadas pela empresa, quanto aqueles que podem ser contidos por ela. Desde 2002 a organização foca no Sistema de Gestão Ambiental e a partir de 2009 tem, anualmente, seu inventário sobre emissão de gases do efeito estufa certificado pela International Organization for Standardization (ISO) já citada. Há também uma política de Meio Ambiente, Saúde e Segurança (MASS) no trabalho que foi implementada em todas as unidades da Embraer pelo mundo, onde as diretrizes são claras para que o trabalho seja desempenhado com qualidade, mas sem desrespeitar a natureza.
+
+
+    \section{Responsabilidade Social}
+    Como citado anteriormente, a Embraer fundou o Colégio Engenheiro Juarez Wanderley em São José dos Campos no ano de 2002. Atualmente, ele oferece cerca de 960 vagas anuais para alunos em vulnerabilidade social. Além do ensino de ponta, gerenciado pelo Sistema Pitágoras, a escola fornece alimentação, uniforme, transporte e material didático incluso na bolsa de estudos. Ademais, para alunos que passaram em vestibulares fora da cidade, é oferecido bolsas de manutenção, que auxiliam no pagamento da moradia, do transporte e da alimentação dos ex-alunos
+
+
+    
+	\section{Referências bibliográficas}
+	99 JOBS. Como é trabalhar na empresa Embraer. Disponível em <https://www.99jobs.com/embraer>
+
+EMBRAER. Ambiental. Disponível em <https://embraer.com/br/pt/ambiental>
+
+EMBRAER. História da Embraer. Disponível em <https://historicalcenter.embraer.com/br/pt/historia>
+
+EMBRAER. Junte-se a nós. Disponível em <https://embraer.com/br/pt/junte-se-a-nos>
+
+EMBRAER. Perfil Institucional. Disponível em <https://www.embraer.com/relatorio_anual2016/pt/perfil-institucional.htm#gri_G4-56_Vis%C3%A3o>
+
+EMBRAER. Sobre nós. Disponível em <https://embraer.com/br/pt/sobre-nos> 
+
+EMBRAER. Sociedade e Meio Ambiente. Disponível em <https://www.embraer.com/relatorio_anual2016/pt/sociedade-e-meio-ambiente.htm>
+
+EMBRAER. Valores. Disponível em <https://embraer.com/br/pt/valores>
+
+
+
+
+
+%Teste de citação para gerar referências no modelo.. \citeauthor{SCRUMGUIDE:2013}
+
+
+% ----------------------------------------------------------
+% Referências bibliográficas
+% ----------------------------------------------------------
+\bibliography{referencias,exemplos/abntex2-doc-abnt-6023}
+
+\end{document}
