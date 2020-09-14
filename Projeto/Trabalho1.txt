@@ -1,0 +1,214 @@
+Nome da empresa: Embraer
+Repositório: https://github.com/VanderlanAlves/TrabalhoRH
+
+Ana Clara da Cruz Coelho - SP305277X; 
+Deivid Aleixo de Almeida - SP305313X;
+Marcos Vinicius De Oliveira Souza- SP3054161;
+Vanderlan Almeida Alves - SP3047016.
+
+RESUMO: 
+
+
+
+
+ABSTRACT:
+
+
+
+SUMÁRIO:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. INTRODUÇÃO
+1.1 TEMA E PROBLEMATIZAÇÃO	
+
+A Embraer, cadastrada atualmente no CNPJ 07.689.002/0001-89, tem nome empresarial Embraer S.A. e está no setor aeroespacial desde agosto de 1969. Desde o seu surgimento, a empresa já produziu mais de 8 mil aeronaves e conquistou seu espaço em diversos lugares do mundo, tornando-se, assim, a quinta maior fabricante de jatos particulares, a terceira melhor produtora de jatos comerciais e a líder entre as empresas na produção de aviões comerciais que suportam possuem até 130 poltronas. Seu sucesso é tanto, que transporta mais de 140 milhões de passageiros todo ano, sendo que a cada 10 segundos uma aeronave Embraer inicia voo. A companhia também viu necessidade de criação de indústrias, escritórios e centro de distribuição que disponibilizassem peças em quase todos os continentes.
+
+1.2 JUSTIFICATIVA	
+
+
+
+
+1.3 HIPÓTESE
+
+
+
+
+1.4 OBJETIVOS	
+1.4.1 GERAL	
+	O presente trabalho tem como objetivo principal a análise da metodologia de contratação da empresa Embraer S.A
+
+
+1.4.2 ESPECÍFICOS	
+
+
+2 REFERENCIAL TEÓRICO
+2.1 PARTE 1	
+
+2.1.1 HISTÓRIA DA EMBRAER
+
+Em 1950, a partir do suporte à aviação do governo de Getúlio Vargas, o ITA - Instituto Tecnológico de Aeronáutica, foi criado. Naquela época, o instituto tinha como objetivo a criação de um avião turbo propulsor para uso civil e militar. Assim, estruturou-se o projeto de criação do protótipo, que foi coordenado pelo engenheiro aeronáutico Ozires Silva. Depois que o avião concluiu com sucesso seus testes de voo, fez-se necessário criar uma fábrica que tornasse possível sua produção em larga escala. 
+	Com esse objetivo, Ozires e sua equipe tentaram articular a criação da companhia com o  setor privado. Entretanto, o início da empresa se deu com capital misto, a partir da capitalização inicial do Estado. No dia 19 de Agosto de 1969, a Embraer (Empresa Brasileira de Aeronáutica S.A.) foi sancionada via Decreto de Lei. Já década de 70, a empresa ganhou proporções gigantes, dominando os céus dos quatro cantos do planeta e apresentando soluções para o segmento agrícola, comercial e executivo.
+	Em 1994, após passar por dificuldades financeiras, a empresa foi totalmente privatizada e passou por uma grande reformulação, coordenada novamente por Ozires Silva. Em 2002, como forma de agradecimento à educação, criou o Colégio Engenheiro Juarez Wanderley, com o objetivo de dar oportunidade aos alunos em vulnerabilidade social da rede pública de ensino, oferecendo uma educação de ponta aos discentes. Desde então, a empresa continuou a produzir aeronaves de sucesso e segue até hoje riscando os céus do globo, se tornando uma das maiores empresas aeroespaciais do mundo.
+
+
+
+2.2 PERFIL INSTITUCIONAL
+Visão
+A Embraer foca em manter sua excelência e estabelecer-se no setor de aviação, sendo não somente um dos maiores destaques no seu ramo mercadológico, mas também liderando e sendo condecorada pela sua atuação empresarial na sociedade.
+
+Missão
+É extremamente importante para esta organização manter o nível de qualidade tecnológica de seus produtos de forma mais elevada possível, além de colocar um preço que seja ajustado de acordo com a concorrência do mercado.
+Ademais, o padrão deve ser alto não somente para o produto, como também deve atender dentro do prazo e rapidamente às demandas dos clientes; sempre de modo confiável, criativo, eficiente, profissional e qualificado.
+
+Valores:
+
+“ÉTICA E INTEGRIDADE ESTÃO EM TUDO QUE FAZEMOS”:
+Estamos sempre buscando o melhor para nossos almejados clientes e colaboradores do time. Das atividades mais simples, as mais promissoras, o certo e a ética sempre andam na frente de tudo.
+
+“NOSSA GENTE É O QUE NOS FAZ VOAR”:
+Nossa missão é levar toda a equipe de colaboradores para o próximo nível. Competentes, valorizados, realizados e comprometidos com a companhia em entregar o melhor para nossos clientes. Confiança é muito importante para manter todos alinhados com os valores adequados.
+
+“EXISTIMOS PARA SERVIR NOSSOS CLIENTES” :
+Sempre buscando a lealdade de nossos clientes com sua satisfação em nossos produtos e assim criando relações fortes e duradouras.
+"BUSCAMOS A EXCELÊNCIA EMPRESARIAL":
+Orientados pela simplicidade das coisas, agilidade, flexibilidade e segurança para agregar o melhor para o cliente final. Ação empreendedora, voltado para o planejamento responsável e disciplinados para a execução de tarefas no melhor prazo possível.
+
+"OUSADIA E INOVAÇÃO SÃO A NOSSA MARCA":
+Capacidade de inovação e aprendizado constante. Somos ousados e fascinados em mudar a realidade interna e influenciar o nosso mercado. Coragem, Criatividade para superar os obstáculos diários.
+
+"ATUAÇÃO GLOBAL É A NOSSA FRONTEIRA":
+Pensamos além das barreiras impostas pela sociedade. A presença da nossa marca no quesito global, é de suma importância para consolidação no nosso mercado e capacidade de abrangência sem limites.
+
+2.3 Responsabilidade ambiental
+A Embraer traz para si a responsabilidade socioambiental, priorizando alguns ideais, como um gerenciamento ecológico, o respeito ao meio ambiente, a atenção ao ciclo de vida do produto etc. Desta forma, foi a primeira empresa de aviação no mundo a conseguir a norma ISO 14001 - que diz respeito ao Sistema de Gestão Ambiental. Nesta norma, são levados em conta tanto as questões ambientais influenciadas pela empresa, quanto aqueles que podem ser contidos por ela. Desde 2002 a organização foca no Sistema de Gestão Ambiental e a partir de 2009 tem, anualmente, seu inventário sobre emissão de gases do efeito estufa certificado pela International Organization for Standardization (ISO) já citada. Há também uma política de Meio Ambiente, Saúde e Segurança (MASS) no trabalho que foi implementada em todas as unidades da Embraer pelo mundo, onde as diretrizes são claras para que o trabalho seja desempenhado com qualidade, mas sem desrespeitar a natureza.
+Como já citado, a Embraer não somente faz parte de acordos que prezam pela diminuição de CO2 e outros gases responsáveis pelo efeito estufa, como também trabalha em produtos que sejam mais sustentáveis. Para que eles possam se tornar realidade, existe o DIPAS (Desenvolvimento Integrado do Produto Ambientalmente Sustentável), que concentra sua energia em uma produção mais ecológica, trazendo alternativas tecnológicas para o ciclo de vida do produto. Esse programa mantém contato com áreas de estudo para a diminuição do lançamento de gás carbônico, consumo de combustível, ruídos e custo de manutenção.
+Entretanto, seus esforços não se resumem somente à prudência referente aos gases do efeito estufa, já que também está envolvida em outras ações, como a atenção a seus efluentes e resíduos, a parceria com entidades interessadas em políticas públicas no setor de aviação e a adoção dos objetivos para o desenvolvimento sustentável da ONU.
+
+
+
+
+
+2.4 Responsabilidade social
+	Como citado anteriormente, a Embraer fundou o Colégio Engenheiro Juarez Wanderley em São José dos Campos no ano de 2002. Atualmente, ele oferece cerca de 960 vagas anuais para alunos em vulnerabilidade social. Além do ensino de ponta, gerenciado pelo Sistema Pitágoras, a escola fornece alimentação, uniforme, transporte e material didático incluso na bolsa de estudos. Ademais, para alunos que passaram em vestibulares fora da cidade, é oferecido bolsas de manutenção, que auxiliam no pagamento da moradia, do transporte e da alimentação dos ex-alunos
+
+2.1 PARTE 2	
+
+A segunda parte do trabalho deve apresentar como são os mecanismos de recrutamento, seleção e contratação de funcionários, considerando etapas, cronogramas e quais análises que são feitas. É esperado que você converse com pessoas de setores ligados a recrutamentos dentro da empresa, para que elas te passam tais informações. 
+
+
+Mecanismos de Recrutamento da EMBRAER
+
+“Não é possível pensar no futuro sem pensar nas pessoas”. Dessa forma, o capital mais importante para as empresas é, sem sombras de dúvida, as pessoas, o time, e o trabalho em equipe”. Com isso, é de extrema importância um processo de seleção eficaz e que seja possível de filtrar os melhores talentos e perfis para que encaixem melhor o objetivo da Empresa naquele momento. 
+	A Embraer, Atualmente, têm passado por diversas mudanças no seu processo de seleção de novos talentos. Por isso, vale ressaltar que, para cada contratação, seja uma oportunidade de  estágio, Trainee, CLT, Engenheiro de software, irá ocorrer uma abordagem específica para cada processo. O desafio é único na visão da empresa. Por isso, é fundamental antes de concorrer para uma vaga na Embraer, está de acordo com os requisitos propostos. Existem diversas oportunidades dentro da Empresa para ESTÁGIO, ou seja, estudante no penúltimo ou último ano de graduação, podem, sim, aplicar para tal oportunidade. Logo, existe um fluxograma de contratação, sendo, um passo a passo pré-determinado que a empresa segue até a entrevista final para a contratação de um estagiário. De fato, acaba se tornando, como grandes processos seletivos, um filtro para ir eliminando pessoas que possivelmente não estão necessariamente alinhadas com o objetivo da companhia ou  não cumprem com alguns requisitos essenciais pedidos pela vaga. 
+
+
+Etapas do Processo Seletivo até a contratação
+
+Primeiro, é fundamental estar matriculado em uma instituição de ensino superior. Logo, melhores informações são encontradas no próprio site da Empresa para candidatura. Após o envio do currículo,
+
+Encaminhamento via e-mail para o participante
+ Será enviado um e-mail para possível realização de um teste de proficiência em inglês junto com a convocação para uma dinâmica e resultando na entrevista(presencial).
+
+2.  Parte Presencial do processo na sede da Empresa
+ Assim, indo até a sede da Empresa, levando os documentos necessários para o preenchimento de uma ficha com os dados pessoais. Para tal, é de fundamental ter em mãos um currículo atualizado, documentos em geral e, por último, um documento que comprove a matrícula na faculdade, constando o semestre que está cursando e a previsão de conclusão do curso.
+3. Teste Técnico
+É realizado uma redação(Colocar mais detalhes)
+
+4. Dinâmica de grupo
+Após feito a {redação}, é feita a dinâmica de grupo (parte fundamental do processo)
+A dinâmica de grupo consiste em fazer um desenho na cartolina ilustrando a trajetória até o momento presente e expectativas para o futuro. Sendo apresentado tanto para os outros participantes quanto para os analistas de recursos humanos.
+
+5. Entrevista com os analistas
+É realizado uma entrevista somente com os recrutadores para entender mais sobre o candidato e sua visão e colaboração para a companhia.
+
+6. Ligação ou notificação por email caso o candidato tenha passado
+Possível contratação notificando o participante por email ou telefone
+
+7. Etapas de exames médicos e a efetiva contratação do participante
+	É realizado diversos exames médicos antes do participante começar o seu trabalho na empresa, mas, nesta etapa, já está praticamente tudo certo e em menos de alguns meses, já estará trabalhando.
+
+
+
+   
+Experiência do meu Primo aplicando para vaga de estágio (Só para orientar a gente)
+
+Boa tarde Deivid,
+
+Conforme mencionado, o programa de estágio passou por algumas modificações desde que entrei na empresa. De qualquer forma, segue abaixo a minha experiência e cronologia.
+
+Me candidatei para as duas vagas de estágio que estavam disponíveis na área Financeira (Contas a Pagar e Contas a Receber).
+Localizei e me candidatei para vaga de estágio através do site da Embraer (27/01/2018);
+Recebi um e-mail para realização do teste de nível de inglês junto da convocação para a dinâmica e entrevista (30/01/2018);
+A parte física do processo seletivo consistiu nas seguintes etapas (31/01/2018):
+Preenchimento da Ficha com dados pessoais (era necessário levar um currículo atualizado, documentos pessoais e uma declaração da faculdade mostrando o semestre que estava sendo cursado e a previsão de término);
+Redação;
+Dinâmica de grupo (era necessário fazer um desenho em cartolina mostrando a sua história e que contasse a sua trajetória até aquele momento e o que esperava para o futuro. A apresentação era feito para os demais participantes, as duas supervisoras das áreas e analista de RH);
+Entrevista individual com as duas supervisoras.
+No mesmo dia, a tarde, recebi a ligação de que havia passado no processo seletivo.
+
+As demais etapas foram referente a efetivação do contrato de estágio e exame médico.
+
+Iniciei nas atividades em 01/03/2018.
+
+Qualquer dúvida, estou a disposição.
+
+
+Embraer passa a utilizar INTELIGÊNCIA ARTIFICIAL para captar os melhores talentos
+
+
+
+
+3 METODOLOGIA	
+
+
+4 RESULTADOS E DISCUSSÕES	
+
+
+5 CONCLUSÃO:	
+
+
+
+ 
+
+
+REFERÊNCIAS BIBLIOGRÁFICAS:	 
+
+99 JOBS. Como é trabalhar na empresa Embraer. Disponível em <https://www.99jobs.com/embraer>
+
+EMBRAER. Ambiental. Disponível em <https://embraer.com/br/pt/ambiental>
+
+EMBRAER. História da Embraer. Disponível em <https://historicalcenter.embraer.com/br/pt/historia>
+
+EMBRAER. Junte-se a nós. Disponível em <https://embraer.com/br/pt/junte-se-a-nos>
+
+EMBRAER. Perfil Institucional. Disponível em <https://www.embraer.com/relatorio_anual2016/pt/perfil-institucional.htm#gri_G4-56_Vis%C3%A3o>
+
+EMBRAER. Sobre nós. Disponível em <https://embraer.com/br/pt/sobre-nos> 
+
+EMBRAER. Sociedade e Meio Ambiente. Disponível em <https://www.embraer.com/relatorio_anual2016/pt/sociedade-e-meio-ambiente.htm>
+
+EMBREAR valores Disponível em  <https://embraer.com/br/pt/valores>
+
+
+
+Referências Bibliográficas PARTE 2
+
+EMBRAER programas. Disponível em <https://embraer.com/br/pt/programas>
+
+EMBRAER Inteligência Artificial. Disponível em <https://embraer.com/br/pt/noticias?slug=906332-embraer-inova-e-passa-a-usar-inteligencia-artificial-para-identificar-novos-talentos>
+
+
