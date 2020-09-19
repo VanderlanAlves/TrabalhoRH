@@ -16,9 +16,8 @@ Temos como objetivo explorar os meios de recrutamento e valores da empresa [Embr
 
 - [x] Iniciar repositório - 06/09
 - [X] 1º Deadline - 06/09
-- [ ] 2º Deadline - 13/09
-- [ ] Encerramento das atividades - 17/09
-- [ ] 3º Deadline e finalização da primeira parte do projeto - 20/09
+- [X] 2º Deadline - 13/09
+- [ ] 3º Deadline e finalização da primeira parte do projeto - 28/09
 
 
 <p align="center">Participantes do Grupo</p> <p align="center"><strong> <strong><a href="https://github.com/ana-ccoelho">Ana Coelho</a>, <strong><a href="https://github.com/Deividev365">Deivid Almeida</a>, <a href="https://github.com/MARCOSVINICIUSDEOLIVEIRASOUZA">Marcos Vinicius</a></strong>, <strong><a href="https://github.com/VanderlanAlves">Vanderlan Almeida Alves</a>.
