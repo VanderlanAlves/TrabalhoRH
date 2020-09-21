@@ -36,26 +36,18 @@
 \contentsline {section}{\numberline {4.2} Parte Presencial do processo na sede da Empresa}{10}{section.4.2}%
 \contentsline {section}{\numberline {4.3} Teste Técnico}{10}{section.4.3}%
 \contentsline {section}{\numberline {4.4} Dinâmica de grupo}{10}{section.4.4}%
-\contentsline {section}{\numberline {4.5} Entrevista com os analistas}{10}{section.4.5}%
-\contentsline {section}{\numberline {4.6} Ligação ou notificação por email caso o candidato tenha passado}{11}{section.4.6}%
+\contentsline {section}{\numberline {4.5} Entrevista com os analistas}{11}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Contactar o candidato}{11}{section.4.6}%
 \contentsline {section}{\numberline {4.7} Etapas de exames médicos e a efetiva contratação do participante}{11}{section.4.7}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Exemplos \LaTeX }}{12}{chapter.5}%
-\contentsline {chapter}{Exemplos que devem ser lidos :-)}{12}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Normas ABNT}{12}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Detalhes textuais}{12}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Caracteres Reservados}{13}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Listas}{13}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Citações / Referências}{14}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Abreviaturas / Siglas / Glossário}{15}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}Elementos não textuais}{15}{subsection.5.2.5}%
-\contentsline {subsection}{\numberline {5.2.6}Tabelas e Quadros}{16}{subsection.5.2.6}%
-\contentsline {subsection}{\numberline {5.2.7}Figuras}{17}{subsection.5.2.7}%
-\contentsline {subsection}{\numberline {5.2.8}Organizando pendências}{19}{subsection.5.2.8}%
-\contentsline {subsection}{\numberline {5.2.9}QR-Code}{19}{subsection.5.2.9}%
-\contentsline {subsection}{\numberline {5.2.10}Impressão em folhas formato A3}{19}{subsection.5.2.10}%
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Conclusão}{23}{chapter*.3}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Inovação no Proceso de Recrutamento}}{12}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Inteligência Artificial e Pessoas}{12}{section.5.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Parte 3}}{13}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Objetivo}{13}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Resultado e Discussões}{13}{section.6.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusão}}{14}{chapter.7}%
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }

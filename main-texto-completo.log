@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.17)  19 SEP 2020 17:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.17)  20 SEP 2020 21:16
 entering extended mode
-**c:/Users/deivi/desktop/trabalhoRH/main-texto-completo.tex
-(c:/Users/deivi/desktop/trabalhoRH/main-texto-completo.tex
+**c:/Users/deivi/desktop/TrabalhoRH/main-texto-completo.tex
+(c:/Users/deivi/desktop/TrabalhoRH/main-texto-completo.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-09-03> (c:/Users\deivi\desktop\trabalhoRH\ifsp-spo-inf-ctds.cls
+L3 programming layer <2020-09-03> (c:/Users\deivi\desktop\TrabalhoRH\ifsp-spo-inf-ctds.cls
 Document Class: ifsp-spo-inf-ctds 2017/07/02 v1.0 Modelo TADS
-(c:/Users\deivi\desktop\trabalhoRH\ifsp-spo-inf.cls
+(c:/Users\deivi\desktop\TrabalhoRH\ifsp-spo-inf.cls
 Document Class: ifsp-spo-inf 2017/07/02 v1.0 Modelo dos cursos de Informatica do IFSP Campus SPO baseado em abnTeX2
-(c:/Users\deivi\desktop\trabalhoRH\ifsp-spo.cls
+(c:/Users\deivi\desktop\TrabalhoRH\ifsp-spo.cls
 Document Class: ifsp-spo 2016/03/01 v1.0 Modelo do IFSP Campus SPO baseado em abnTeX2
-(c:/Users\deivi\desktop\trabalhoRH\ifsp.cls
+(c:/Users\deivi\desktop\TrabalhoRH\ifsp.cls
 Document Class: ifsp 2017/07/02 v2.0 Modelo do IFSP baseado em abnTeX2
 (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
@@ -990,7 +990,7 @@ Package: glossary-tree 2020/03/19 v4.46 (NLCT)
 \@glsxtrnewgls@inner=\count404
 \glsshortpltok=\toks60
 \glslongpltok=\toks61
-) (c:/Users\deivi\desktop\trabalhoRH\defs-siglas.tex) (c:/Users\deivi\desktop\trabalhoRH\defs-glossario.tex) (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+) (c:/Users\deivi\desktop\TrabalhoRH\defs-siglas.tex) (c:/Users\deivi\desktop\TrabalhoRH\defs-glossario.tex) (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2020-09-03 L3 programming layer (loader) 
  (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
@@ -1244,28 +1244,40 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazil'.
- (c:/Users\deivi\desktop\trabalhoRH\main-texto-completo.aux)
+ (c:/Users\deivi\desktop\TrabalhoRH\main-texto-completo.aux)
+Runaway argument?
+{\contentsline {section}{\numberline {2.2}Perfil Institucional}{5}{se\ETC.
+c:/Users/deivi/desktop/TrabalhoRH/main-texto-completo.tex:54: File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.54 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 \openout1 = `main-texto-completo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
 \AtBeginShipoutBox=\box77
-Package hyperref Info: Link coloring OFF on input line 48.
- (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package hyperref Info: Link coloring OFF on input line 54.
+(C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -1276,15 +1288,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 48.
-LaTeX Info: Redefining \ref on input line 48.
-LaTeX Info: Redefining \pageref on input line 48.
-LaTeX Info: Redefining \nameref on input line 48.
+LaTeX Info: Redefining \nameref on input line 54.
+LaTeX Info: Redefining \ref on input line 54.
+LaTeX Info: Redefining \pageref on input line 54.
+LaTeX Info: Redefining \nameref on input line 54.
 \myptabbox=\box78
 \myptabboxwidth=\skip283
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 48.
+(lastpage)             ! on input line 54.
 (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count453
@@ -1302,14 +1314,14 @@ Package lastpage Info: Please have a look at the pageslts package at
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
-LaTeX Info: Redefining \microtypecontext on input line 48.
+LaTeX Info: Redefining \microtypecontext on input line 54.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 48.
+LaTeX Info: Redefining \showhyphens on input line 54.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1323,9 +1335,9 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ) ABD: EveryShipout initializing macros
 
-Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 48.
+Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 54.
 
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 54.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 60.
 (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1333,28 +1345,28 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 54.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 60.
  (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 54.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 60.
  (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 54.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 60.
  (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 54.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 60.
  (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 54.
+(Font)              <14.4> on input line 60.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 54.
+(Font)              <10> on input line 60.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 54.
+(Font)              <7> on input line 60.
  [1
 Non-PDF special ignored!
 <special> header=pstricks.pro
@@ -1373,573 +1385,188 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
 Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
-{C:/Users/deivi/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 56.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 56.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 56.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+{C:/Users/deivi/A already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56 
+l.62 
       [1
 
 
 
 ]
-Package marginnote Info: Using workaround for absolute page number on input line 56.
+Package marginnote Info: Using workaround for absolute page number on input lin
+e 62.
  [2
 
-] (c:/Users\deivi\desktop\trabalhoRH\textos-introducao.tex [3
+] (textos-introducao.tex [3
 
-]) (c:/Users\deivi\desktop\trabalhoRH\textos-revisao-literatura.tex) (c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex [4] [5
+]) (textos-desenvolvimento.tex [4]
+[5
 
 ]
 
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:47: LaTeX Error: Something's wrong--perhaps a missing \item.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47         \end{description}
+l.48         \end{description}
                               
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+? 
 
-
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:54: LaTeX Error: Something's wrong--perhaps a missing \item.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.54             \end{description}
+l.55             \end{description}
                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:57: Argument of \language@active@arg" has an extra }.
+? 
+! Argument of \language@active@arg" has an extra }.
 <inserted text> 
                 \par 
-l.57 ...n{"Existimos para servir nossos clientes"}
+l.58 ...n{"Existimos para servir nossos clientes"}
                                                   
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
+? 
 Runaway argument?
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:57: Paragraph ended before \language@active@arg" was complete.
+! Paragraph ended before \language@active@arg" was complete.
 <to be read again> 
                    \par 
-l.57 ...n{"Existimos para servir nossos clientes"}
+l.58 ...n{"Existimos para servir nossos clientes"}
                                                   
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+? 
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\advance' on input line 58.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\advance' on input line 57.
+(hyperref)                removing `\par@deathcycles' on input line 58.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\par@deathcycles' on input line 57.
+(hyperref)                removing `\@ne' on input line 58.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ne' on input line 57.
-
-
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:60: LaTeX Error: Something's wrong--perhaps a missing \item.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60                 \end{description}
+l.61                 \end{description}
                                       
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+? 
 
-
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:67: LaTeX Error: Something's wrong--perhaps a missing \item.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.67                     \end{description}
+l.68                     \end{description}
                                           
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:70: Argument of \language@active@arg" has an extra }.
+? 
+! Argument of \language@active@arg" has an extra }.
 <inserted text> 
                 \par 
-l.70 ...tion{"Buscamos a Excelência Empresarial"}
+l.71 ...tion{"Buscamos a Excelência Empresarial"}
                                                   
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
+? 
 Runaway argument?
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:70: Paragraph ended before \language@active@arg" was complete.
+! Paragraph ended before \language@active@arg" was complete.
 <to be read again> 
                    \par 
-l.70 ...tion{"Buscamos a Excelência Empresarial"}
+l.71 ...tion{"Buscamos a Excelência Empresarial"}
                                                   
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+? 
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\advance' on input line 71.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\advance' on input line 70.
+(hyperref)                removing `\par@deathcycles' on input line 71.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\par@deathcycles' on input line 70.
+(hyperref)                removing `\@ne' on input line 71.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ne' on input line 70.
-
-
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:74: LaTeX Error: Something's wrong--perhaps a missing \item.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74                         \end{description}
+l.75                         \end{description}
                                               
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:77: Argument of \language@active@arg" has an extra }.
+? 
+! Argument of \language@active@arg" has an extra }.
 <inserted text> 
                 \par 
-l.77 ..."Ousadia e inovação são a nossa Marca"}
+l.78 ..."Ousadia e inovação são a nossa Marca"}
                                                   
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
+? 
 Runaway argument?
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:77: Paragraph ended before \language@active@arg" was complete.
+! Paragraph ended before \language@active@arg" was complete.
 <to be read again> 
                    \par 
-l.77 ..."Ousadia e inovação são a nossa Marca"}
+l.78 ..."Ousadia e inovação são a nossa Marca"}
                                                   
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+? 
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\advance' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\advance' on input line 77.
+(hyperref)                removing `\par@deathcycles' on input line 78.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\par@deathcycles' on input line 77.
+(hyperref)                removing `\@ne' on input line 78.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ne' on input line 77.
-
-
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:80: LaTeX Error: Something's wrong--perhaps a missing \item.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80                             \end{description}
+l.81                             \end{description}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 [6]
 
-c:/Users\deivi\desktop\trabalhoRH\textos-desenvolvimento.tex:86: LaTeX Error: Something's wrong--perhaps a missing \item.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.86 ...                         \end{description}
+l.87 ...                         \end{description}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 [7] [8] [9
 
 ] [10
 
-]) (c:/Users\deivi\desktop\trabalhoRH\exemplos/exemplos.tex [11]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <24.88> on input line 1.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 1.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 1.
- (c:/Users\deivi\desktop\trabalhoRH\exemplos/abnt.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5.
- (C:\Users\deivi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
+] [11]) (textos-conclusao.tex [12
 
-Package glossaries-extra Warning: Base acronym command \acrshort should not be used with new abbreviation definitions. Use \glsxtrshort instead on input line 7.
+] [13
 
-) [12
-
-] (c:/Users\deivi\desktop\trabalhoRH\exemplos/referencias.tex
-
-LaTeX Warning: Citation `UML:JACOBSON' on page 13 undefined on input line 6.
-
-
-LaTeX Warning: Citation `POWELL:2006' on page 13 undefined on input line 6.
-
-
-LaTeX Warning: Citation `SCRUMGUIDE:2013' on page 13 undefined on input line 7.
-
-
-LaTeX Warning: Citation `urani1994' on page 13 undefined on input line 7.
-
-
-LaTeX Warning: Citation `ETAL5' on page 13 undefined on input line 8.
-
-
-LaTeX Warning: Citation `ETAL4' on page 13 undefined on input line 8.
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 9.
-[13]
-
-LaTeX Warning: Citation `UML:JACOBSON' on page 14 undefined on input line 12.
-
-
-LaTeX Warning: Citation `POWELL:2006' on page 14 undefined on input line 12.
-
-
-LaTeX Warning: Citation `SCRUMGUIDE:2013' on page 14 undefined on input line 13.
-
-
-LaTeX Warning: Citation `urani1994' on page 14 undefined on input line 13.
-
-
-LaTeX Warning: Citation `ETAL5' on page 14 undefined on input line 14.
-
-
-LaTeX Warning: Citation `ETAL4' on page 14 undefined on input line 14.
-
-
-LaTeX Warning: Citation `UML:JACOBSON' on page 14 undefined on input line 16.
-
-
-LaTeX Warning: Citation `POWELL:2006' on page 14 undefined on input line 16.
-
-
-LaTeX Warning: Citation `SCRUMGUIDE:2013' on page 14 undefined on input line 17.
-
-
-LaTeX Warning: Citation `urani1994' on page 14 undefined on input line 17.
-
-
-LaTeX Warning: Citation `ETAL5' on page 14 undefined on input line 18.
-
-
-LaTeX Warning: Citation `ETAL4' on page 14 undefined on input line 18.
-
-
-LaTeX Warning: Citation `UML:JACOBSON' on page 14 undefined on input line 20.
-
-
-LaTeX Warning: Citation `POWELL:2006' on page 14 undefined on input line 20.
-
-
-LaTeX Warning: Citation `SCRUMGUIDE:2013' on page 14 undefined on input line 21.
-
-
-LaTeX Warning: Citation `urani1994' on page 14 undefined on input line 21.
-
-
-LaTeX Warning: Citation `ETAL5' on page 14 undefined on input line 22.
-
-
-LaTeX Warning: Citation `ETAL4' on page 14 undefined on input line 22.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-[][]$\T1/lmr/m/n/12 (-8) <[]http : / / mirrors . ibiblio . org / CTAN / macros / latex / contrib / abntex2 / doc / abntex2cite-[]alf .
- []
-
-
-LaTeX Warning: Citation `SCRUMGUIDE:2013' on page 14 undefined on input line 31.
-
-
-LaTeX Warning: Citation `SCRUMGUIDE:2013' on page 14 undefined on input line 32.
-
-
-LaTeX Warning: Citation `SCRUMGUIDE:2013' on page 14 undefined on input line 33.
-
-[14]
-
-Package glossaries-extra Warning: Base acronym command \acrshort should not be used with new abbreviation definitions. Use \glsxtrshort instead on input line 51.
-
-
-Package glossaries-extra Warning: Base acronym command \acrlong should not be used with new abbreviation definitions. Use \glsxtrlong instead on input line 52.
-
-)
-
-LaTeX Warning: Reference `fig_logo_A3' on page 15 undefined on input line 78.
-
-
-LaTeX Warning: Reference `fig_logo_A3' on page 15 undefined on input line 78.
-
-(c:/Users\deivi\desktop\trabalhoRH\exemplos/tabelas.tex [15]
-
-LaTeX Warning: Citation `NBR14724:2011' on page 16 undefined on input line 2.
-
-
-LaTeX Warning: Reference `quadro-exemplo' on page 16 undefined on input line 12.
-
-
-Underfull \hbox (badness 1721) in paragraph at lines 22--22
-[]|\T1/lmr/bx/n/10 Sistemas de
- []
-
-
-LaTeX Warning: Reference `tab-exemplo' on page 16 undefined on input line 38.
-
-
-LaTeX Warning: Reference `eq-pythagoras' on page 16 undefined on input line 65.
-
-[16]) (c:/Users\deivi\desktop\trabalhoRH\exemplos/figuras.tex
-
-LaTeX Warning: Reference `fig_circulo' on page 17 undefined on input line 7.
-
-
-LaTeX Warning: Reference `fig_logo' on page 17 undefined on input line 7.
-
-
-LaTeX Warning: Reference `diagramauml' on page 17 undefined on input line 11.
-
-
-LaTeX Warning: Reference `sec_figuras' on page 17 undefined on input line 16.
-
-<ifsp-spo/logo-02.jpg, id=198, 420.8523pt x 132.9768pt>
-File: ifsp-spo/logo-02.jpg Graphic file (type jpg)
-<use ifsp-spo/logo-02.jpg>
-Package pdftex.def Info: ifsp-spo/logo-02.jpg  used on input line 57.
-(pdftex.def)             Requested size: 420.85127pt x 132.97647pt.
-
-LaTeX Warning: Reference `fig_diag_virado' on page 17 undefined on input line 111.
-
-[17]
-
-LaTeX Warning: Reference `fig_diag_virado' on page 18 undefined on input line 113.
-
-
-LaTeX Warning: Reference `fig_diag_virado' on page 18 undefined on input line 113.
-
-<exemplos/exemplo_diag_horizontal.png, id=219, 1187.43625pt x 670.505pt>
-File: exemplos/exemplo_diag_horizontal.png Graphic file (type png)
-<use exemplos/exemplo_diag_horizontal.png>
-Package pdftex.def Info: exemplos/exemplo_diag_horizontal.png  used on input line 117.
-(pdftex.def)             Requested size: 598.04594pt x 337.70714pt.
-
-LaTeX Warning: Citation `openehrCompositionEntry' on page 18 undefined on input line 119.
-
-
-LaTeX Warning: Citation `openehrCompositionEntry' on page 18 undefined on input line 119.
-
-) (c:/Users\deivi\desktop\trabalhoRH\exemplos/todo.tex
-
-LaTeX Warning: Reference `manual-todonotes' on page 18 undefined on input line 3.
-
-[18 <c:/Users/deivi/desktop/trabalhoRH/ifsp-spo/logo-02.jpg>]) (c:/Users\deivi\desktop\trabalhoRH\exemplos/qrcode.tex
-
-LaTeX Warning: Reference `qr-url-1' on page 19 undefined on input line 6.
-
-
-LaTeX Warning: Reference `qr-url-2' on page 19 undefined on input line 6.
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/qrcode.tex:11: Undefined control sequence.
-l.11 ...os de barra pode ser visto em : \urlmodelo
-                                                  .
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/qrcode.tex:18: Undefined control sequence.
-\c@lor@to@ps ->\PSTricks 
-                         _Not_Configured_For_This_Format
-l.18 ...s}{eclevel=H width=1.0 height=1.0}{qrcode}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/qrcode.tex:18: Undefined control sequence.
-\XC@usec@lor ...string \color@ #1#2\endcsname \@@ 
-                                                  \fi \space 
-l.18 ...s}{eclevel=H width=1.0 height=1.0}{qrcode}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/qrcode.tex:18: Undefined control sequence.
-<argument> ... rightTrim \else (\urlmodelosimples 
-                                                  ) \fi (eclevel=H width=1.0...
-l.18 ...s}{eclevel=H width=1.0 height=1.0}{qrcode}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/qrcode.tex:21: Undefined control sequence.
-<argument> \urlmodelo 
-                      
-l.21 \legend{\urlmodelo}
-                        
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/qrcode.tex:21: Undefined control sequence.
-<argument> ...@conttfont \ignorespaces \urlmodelo 
-                                                  \@contfinal 
-l.21 \legend{\urlmodelo}
-                        
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/qrcode.tex:21: Undefined control sequence.
-<argument> \ignorespaces \urlmodelo 
-                                    
-l.21 \legend{\urlmodelo}
-                        
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/qrcode.tex:32: Undefined control sequence.
-\c@lor@to@ps ->\PSTricks 
-                         _Not_Configured_For_This_Format
-l.32 ...p}{eclevel=H width=1.0 height=1.0}{qrcode}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/qrcode.tex:32: Undefined control sequence.
-\XC@usec@lor ...string \color@ #1#2\endcsname \@@ 
-                                                  \fi \space 
-l.32 ...p}{eclevel=H width=1.0 height=1.0}{qrcode}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-) (c:/Users\deivi\desktop\trabalhoRH\exemplos/exemploA3.tex
-
-LaTeX Warning: Reference `fig_logo_A3' on page 19 undefined on input line 6.
-
-
-LaTeX Warning: Reference `fig_logo' on page 19 undefined on input line 6.
-
-[19]
-c:/Users\deivi\desktop\trabalhoRH\exemplos/exemploA3.tex:17: Undefined control sequence.
-l.17 \afterpage
-               {%
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/exemploA3.tex:18: LaTeX Error: Environment PAGINA-A3 undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \begin{PAGINA-A3}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-File: ifsp-spo/logo-02.jpg Graphic file (type jpg)
-<use ifsp-spo/logo-02.jpg>
-Package pdftex.def Info: ifsp-spo/logo-02.jpg  used on input line 22.
-(pdftex.def)             Requested size: 472.00638pt x 149.13995pt.
-
-Overfull \hbox (10.72298pt too wide) in paragraph at lines 22--23
- [][][][] 
- []
-
-
-c:/Users\deivi\desktop\trabalhoRH\exemplos/exemploA3.tex:28: LaTeX Error: \begin{document} ended by \end{PAGINA-A3}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 \end{PAGINA-A3}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-)) (c:/Users\deivi\desktop\trabalhoRH\textos-conclusao.tex [20] [21 <c:/Users/deivi/desktop/trabalhoRH/exemplos/exemplo_diag_horizontal.png (PNG copy)>] [22
-Non-PDF special ignored!
-<special> "  tx@Dict begin STP newpath 0.8 SLW _Not_Configured_For_This_For...
-Non-PDF special ignored!
-<special> "  tx@Dict begin STP newpath 0.8 SLW _Not_Configured_For_This_For...
 ])
 No file main-texto-completo.bbl.
 No file main-texto-completo.ind.
 
-Package lastpage Warning: Rerun to get the references right on input line 106.
+Package lastpage Warning: Rerun to get the references right on input line 112.
 
 
 AED: lastpage setting LastPage
-[23
+[14
 
 ]
 
@@ -1950,50 +1577,125 @@ This document will not have a glossary.
 \tf@toc=\write6
 \openout6 = `main-texto-completo.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
-(c:/Users\deivi\desktop\trabalhoRH\main-texto-completo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 106.
-
-
-LaTeX Warning: There were undefined references.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
+(main-texto-completo.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 112.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 36472 strings out of 481199
- 675783 string characters out of 2905595
- 1383706 words of memory out of 3000000
- 51084 multiletter control sequences out of 15000+200000
- 634077 words of font info for 140 fonts, out of 3000000 for 9000
+ 36150 strings out of 481199
+ 669012 string characters out of 2905595
+ 1374828 words of memory out of 3000000
+ 50864 multiletter control sequences out of 15000+200000
+ 595190 words of font info for 111 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,16n,99p,2302b,631s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{glo:qr} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:jpeg} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:png} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:abnt} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:ibge} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:se} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:ifsp} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:tag} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:faq} has been referenced but does not exist, replaced by a fixed one
-
-{C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on c:/Users\deivi\desktop\trabalhoRH\main-texto-completo.pdf (24 pages, 660975 bytes).
+ 99i,12n,99p,1112b,555s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C
+:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/U
+sers/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Us
+ers/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Use
+rs/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Use
+rs/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Use
+rs/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Use
+rs/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on main-texto-completo.pdf (15 pages, 200590 bytes).
 PDF statistics:
- 492 PDF objects out of 1000 (max. 8388607)
- 99 named destinations out of 1000 (max. 500000)
- 30727 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 305 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 23477 words of extra memory for PDF output out of 24883 (max. 10000000)
+
+ing):
+(hyperref)                removing `\advance' on input line 78.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\par@deathcycles' on input line 78.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ne' on input line 78.
+
+
+c:/Users\deivi\desktop\TrabalhoRH\textos-desenvolvimento.tex:81: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81                             \end{description}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[6]
+
+c:/Users\deivi\desktop\TrabalhoRH\textos-desenvolvimento.tex:87: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 ...                         \end{description}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[7] [8] [9
+
+] [10
+
+] [11]) (c:/Users\deivi\desktop\TrabalhoRH\textos-conclusao.tex [12
+
+] [13
+
+])
+No file main-texto-completo.bbl.
+No file main-texto-completo.ind.
+
+Package lastpage Warning: Rerun to get the references right on input line 112.
+
+
+AED: lastpage setting LastPage
+[14
+
+]
+
+Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
+ found. (Remove \makenoidxglossaries if you don't want any glossaries.)
+This document will not have a glossary.
+
+\tf@toc=\write6
+\openout6 = `main-texto-completo.toc'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
+(c:/Users\deivi\desktop\TrabalhoRH\main-texto-completo.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 112.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
+ ) 
+Here is how much of TeX's memory you used:
+ 36151 strings out of 481199
+ 669522 string characters out of 2905595
+ 1374721 words of memory out of 3000000
+ 50864 multiletter control sequences out of 15000+200000
+ 595190 words of font info for 111 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,12n,99p,1144b,555s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/deivi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on c:/Users\deivi\desktop\TrabalhoRH\main-texto-completo.pdf (15 pages, 200590 bytes).
+PDF statistics:
+ 305 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 23477 words of extra memory for PDF output out of 24883 (max. 10000000)
 
