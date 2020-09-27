@@ -3,59 +3,47 @@
 \contentsline {chapter}{Sum\'ario}{2}{section*.2}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{3}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Tema e Problematização}{3}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Justificativa}{3}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Hipótese}{3}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Objetivos}{4}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Geral}{4}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Específicos}{4}{subsection.1.4.2}%
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Parte 1}}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Objetivos}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Tema e Problematização}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Justificativa}{3}{section.1.3}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Parte 1}}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}História da Embraer}{5}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Perfil Institucional}{5}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Visão:}{5}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Missão:}{5}{subsection.2.2.2}%
-\contentsline {section}{\numberline {2.3}Valores:}{6}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}"Ética e Integridade está em tudo que fazemos":}{6}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}"Nossa Gente é o que nos faz VOAR":}{6}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}"Existimos para servir nossos clientes"}{6}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}"Ética e Integridade está em tudo que fazemos":}{6}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}"Buscamos a Excelência Empresarial"}{6}{subsection.2.3.5}%
-\contentsline {subsection}{\numberline {2.3.6}"Ousadia e inovação são a nossa Marca"}{7}{subsection.2.3.6}%
-\contentsline {subsection}{\numberline {2.3.7}"Atuação Global é a nossa Fronteira":}{7}{subsection.2.3.7}%
-\contentsline {section}{\numberline {2.4}Responsabilidade Ambiental}{7}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Responsabilidade Social}{8}{section.2.5}%
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Parte 1}}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}História da Embraer}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Perfil Institucional}{4}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Visão:}{4}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Missão:}{4}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Valores:}{5}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}"Nossa Gente é o que nos faz VOAR":}{5}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}"Existimos para servir nossos clientes"}{5}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}"Ética e Integridade está em tudo que fazemos":}{5}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}"Buscamos a Excelência Empresarial"}{5}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}"Ousadia e inovação são a nossa Marca"}{5}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}"Atuação Global é a nossa Fronteira":}{6}{subsection.2.3.6}%
+\contentsline {section}{\numberline {2.4}Responsabilidade Ambiental}{6}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Responsabilidade Social}{6}{section.2.5}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Parte 2}}{9}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Objetivo}{9}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Mecanismos de Recrutamento da EMBRAER}{9}{section.3.2}%
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Parte 2}}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Objetivo}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Mecanismos de Recrutamento da EMBRAER}{8}{section.3.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Etapas do Processo Seletivo}}{10}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Encaminhamento via e-mail para o participante}{10}{section.4.1}%
-\contentsline {section}{\numberline {4.2} Parte Presencial do processo na sede da Empresa}{10}{section.4.2}%
-\contentsline {section}{\numberline {4.3} Teste Técnico}{10}{section.4.3}%
-\contentsline {section}{\numberline {4.4} Dinâmica de grupo}{10}{section.4.4}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Etapas do Processo Seletivo}}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Encaminhamento via e-mail para o participante}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2} Parte Presencial do processo na sede da Empresa}{9}{section.4.2}%
+\contentsline {section}{\numberline {4.3} Teste Técnico}{9}{section.4.3}%
+\contentsline {section}{\numberline {4.4} Dinâmica de grupo}{9}{section.4.4}%
 \contentsline {section}{\numberline {4.5} Entrevista com os analistas}{10}{section.4.5}%
-\contentsline {section}{\numberline {4.6} Ligação ou notificação por email caso o candidato tenha passado}{11}{section.4.6}%
-\contentsline {section}{\numberline {4.7} Etapas de exames médicos e a efetiva contratação do participante}{11}{section.4.7}%
+\contentsline {section}{\numberline {4.6}Ligação ou notificação por email caso o candidato tenha passado}{10}{section.4.6}%
+\contentsline {section}{\numberline {4.7} Etapas de exames médicos e a efetiva contratação do participante}{10}{section.4.7}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Exemplos \LaTeX }}{12}{chapter.5}%
-\contentsline {chapter}{Exemplos que devem ser lidos :-)}{12}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Normas ABNT}{12}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Detalhes textuais}{12}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Caracteres Reservados}{13}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Listas}{13}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Citações / Referências}{14}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Abreviaturas / Siglas / Glossário}{15}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}Elementos não textuais}{15}{subsection.5.2.5}%
-\contentsline {subsection}{\numberline {5.2.6}Tabelas e Quadros}{16}{subsection.5.2.6}%
-\contentsline {subsection}{\numberline {5.2.7}Figuras}{17}{subsection.5.2.7}%
-\contentsline {subsection}{\numberline {5.2.8}Organizando pendências}{19}{subsection.5.2.8}%
-\contentsline {subsection}{\numberline {5.2.9}QR-Code}{19}{subsection.5.2.9}%
-\contentsline {subsection}{\numberline {5.2.10}Impressão em folhas formato A3}{19}{subsection.5.2.10}%
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Conclusão}{23}{chapter*.3}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Inovação no Proceso de Recrutamento}}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Inteligência Artificial e Pessoas}{11}{section.5.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Parte 3}}{12}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Objetivo}{12}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Resultado e Discussões}{12}{section.6.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusão}}{14}{chapter.7}%
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
