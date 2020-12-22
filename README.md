@@ -1,7 +1,4 @@
 <meta charset="utf-8">
-<h1 align="center">
-    <img alt="embraer  - Análise do Processo Seletivo" title="#Rhua1" />
-</h1>
 
 <h2 align="center">
   Embraer | Processo Seletivo
