@@ -1,16 +1,14 @@
-Análise do processo seletivo da empresa Embraer para a matéria de Recursos Humanos de Análise e Desenvolvimento de Sistemas.
+# ✈️ Objetivo do Projeto
+
+Temos como objetivo explorar os meios de recrutamento e valores da empresa [Embraer](https://embraer.com/br/pt/), para a matéria de Recursos Humanos de Análise e Desenvolvimento de Sistemas.
+
 <meta charset="utf-8">
 
 <h2 align="center">
   Embraer | Processo Seletivo
 </h2>
 
-
-## ✈️ Objetivo do Projeto
-
-Temos como objetivo explorar os meios de recrutamento e valores da empresa [Embraer](https://embraer.com/br/pt/).
-
-## 🔖 Deadline
+# 🔖 Deadline
 
 - [x] Iniciar repositório - 06/09
 - [X] 1º Deadline - 06/09
